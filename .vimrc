@@ -70,7 +70,7 @@ set colorcolumn=75
 " Tabs
 set tabstop=4 shiftwidth=4 softtabstop=4 expandtab
 
-set guifont=Meslo\ LG\ S\ Regular\ for\ Powerline:h14
+set guifont=Meslo\ LG\ S\ Regular\ for\ Powerline:h13
 
 set guioptions-=T  "remove toolbar
 set guioptions-=r  "remove right-hand scroll bar
