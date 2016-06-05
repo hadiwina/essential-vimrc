@@ -33,5 +33,6 @@ The following is the list of plugins that I use:
 
 Screenshot:
 
+![img](https://cloud.githubusercontent.com/assets/5366783/15807859/40d3836a-2b36-11e6-85e8-f0f10db87de7.png)
 
 OneDark theme with Airline Luna theme.
