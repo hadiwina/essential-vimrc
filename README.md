@@ -16,17 +16,17 @@ you will need to install Powerline fonts. Please see [Powerline documentation](h
 # List of Used Plugins
 
 The following is the list of plugins that I use:
-* OneDark: [https://github.com/joshdick/onedark.vim](https://github.com/joshdick/onedark.vim)
-* Vim Poliglot: [https://github.com/sheerun/vim-polyglot](https://github.com/sheerun/vim-polyglot)
-* CtrlP: [kien/ctrlp.vim](kien/ctrlp.vim)
-* Vim Git Gutter: [https://github.com/airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter)
-* NERDTree: [https://github.com/scrooloose/nerdtree](https://github.com/scrooloose/nerdtree)
-* Vim Fugitive: [https://github.com/tpope/vim-fugitive](https://github.com/tpope/vim-fugitive)
-* Vim Surround: [https://github.com/tpope/vim-surround](https://github.com/tpope/vim-surround)
-* Auto Pairs: [https://github.com/jiangmiao/auto-pairs](https://github.com/jiangmiao/auto-pairs)
-* Close Tag: [https://github.com/docunext/closetag.vim](https://github.com/docunext/closetag.vim)
-* Vim Airline: [https://github.com/vim-airline/vim-airline](https://github.com/vim-airline/vim-airline)
-* Vim Airline Themes: [https://github.com/vim-airline/vim-airline-themes](https://github.com/vim-airline/vim-airline-themes)
+* [OneDark](https://github.com/joshdick/onedark.vim)
+* [Vim Polyglot](https://github.com/sheerun/vim-polyglot)
+* [CtrlP](kien/ctrlp.vim)
+* [Vim GitGutter](https://github.com/airblade/vim-gitgutter)
+* [NERDTree](https://github.com/scrooloose/nerdtree)
+* [Vim Fugitive](https://github.com/tpope/vim-fugitive)
+* [Vim Surround](https://github.com/tpope/vim-surround)
+* [Auto Pairs](https://github.com/jiangmiao/auto-pairs)
+* [Closetag](https://github.com/docunext/closetag.vim)
+* [Vim Airline](https://github.com/vim-airline/vim-airline)
+* [Vim Airline Themes](https://github.com/vim-airline/vim-airline-themes)
 
 
 # Look and Feel
