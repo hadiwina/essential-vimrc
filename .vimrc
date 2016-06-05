@@ -64,7 +64,7 @@ set number 		        " Show line numbers
 set cursorline		    " Set line highlighter
 " set cursorcolumn        " Set line highlighter
 set ruler
-set updatetime=250      " Set update time of vim so git gutter can update directly
+set updatetime=250      " Set update time of vim so git gutter can auto update 
 set colorcolumn=75
 
 " Tabs
