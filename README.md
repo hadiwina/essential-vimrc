@@ -35,4 +35,8 @@ Screenshot:
 
 ![img](https://cloud.githubusercontent.com/assets/5366783/15807914/4836d07a-2b37-11e6-90cc-ce6417537587.png)
 
-OneDark theme with Airline Luna theme.
+OneDark theme with Airline Luna theme. Font **Meslo LG S Regular for Powerline** size **13**
+
+```vim
+set guifont=Meslo\ LG\ S\ Regular\ for\ Powerline:h13
+```
